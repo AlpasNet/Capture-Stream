@@ -3,10 +3,6 @@ Fork from https://github.com/pairomaniac/capture-stream
 
 Low-latency capture card viewer for Linux. Opens your capture card in a borderless, always-below VLC window.
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/833fe4cb-3ee8-423c-9eaf-feaa3556ec30" width="30%" />
-</p>
-
 ## Features
 
 - Auto-detects V4L2 video and ALSA audio devices
